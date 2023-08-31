@@ -18,5 +18,5 @@ python MAFIA.py
 ## SCREENSHOT :
 <br>
 <p align="center">
-<img src="__OG__/I.jpg"/>
+<img src="__OG__/i.jpg"/>
 </p>

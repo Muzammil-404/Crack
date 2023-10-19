@@ -9,6 +9,6 @@ if MAFIA=="64bit":
      else:
         import Mafia 
 elif MAFIA=="32bit":
-    print(' Your Device didn't support this tool ...')
+    print(' Your Device is not support this tool ...')
     exit()
 

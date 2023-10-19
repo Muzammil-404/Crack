@@ -7,9 +7,8 @@ if MAFIA=="64bit":
         os.system('curl -L https://github.com/Muzammil-404/MAFIA/blob/main/Mafia.cpython-311.so?raw=true -o Mafia.so') 
         import Mafia
      else:
-        import Mafia
-     #__import__("KHAN")
+        import Mafia 
 elif MAFIA=="32bit":
-    print('Sorry 32 Bit Not Supported...')
+    print(' Your Device didn't support this tool ...')
     exit()
 
